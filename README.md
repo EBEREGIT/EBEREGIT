@@ -33,3 +33,4 @@ Just don't say I didn't tell you about my hobby - BODY BUILDING :muscle:
 :relaxed: NODEJS
 
 ### Let's Connect :sunglasses:
+[Twitter](https://twitter.com/eberetwit) | [LinkedIn](https://www.linkedin.com/in/samson-ebere-njoku-profile/) | [DevTo](https://dev.to/ebereplenty)
