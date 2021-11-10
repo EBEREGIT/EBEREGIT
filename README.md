@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Njoku Samson Ebere
 
-Sofware engineer | Technical writer | Body Builder
+Sofware engineer | Technical writer | Mentor | Body Builder
 
 <dl>
   <dt>My Vision </dt>
