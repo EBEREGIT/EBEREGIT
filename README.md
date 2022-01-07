@@ -32,4 +32,4 @@ Sofware engineer | Technical writer | Mentor | Body Builder
 :relaxed: NODEJS
 
 ### Let's Connect :sunglasses:
-[Twitter](https://twitter.com/eberetwit) | [DevTo](https://dev.to/ebereplenty)
+[Twitter](https://twitter.com/eberetwit) | [DevTo](https://dev.to/ebereplenty) | [LinkedIn](https://www.linkedin.com/in/samson-ebere-njoku-profile/)
