@@ -18,5 +18,5 @@ Sofware engineer | Technical writer | Mentor | Body Builder
 - Technical Writing
 - NODEJS
 
-### Let's Connect :sunglasses:
+### Let's Connect
 [Twitter](https://twitter.com/eberetwit) | [DevTo](https://dev.to/ebereplenty) | [LinkedIn](https://www.linkedin.com/in/samson-ebere-njoku-profile/)
