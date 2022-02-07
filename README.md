@@ -11,7 +11,7 @@ Sofware engineer | Technical writer | Mentor | Body Builder
 </dl>
 
 ## Skills
-- NEXTJS
+- Mentoring
 - Speaking
 - JAVASCRIPT
 - REACT
