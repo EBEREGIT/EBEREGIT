@@ -19,4 +19,4 @@ Sofware engineer | Technical writer | Mentor | Body Builder
 - NODEJS
 
 ### Let's Connect
-[Twitter](https://twitter.com/eberetwit) | [DevTo](https://dev.to/ebereplenty) | [LinkedIn](https://www.linkedin.com/in/samson-ebere-njoku-profile/)
+[Twitter](https://twitter.com/eberetwit) | [Blog](freecodecamp.org/news/author/ebereplenty/) | [LinkedIn](https://www.linkedin.com/in/samson-ebere-njoku-profile/)
