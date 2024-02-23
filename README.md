@@ -17,6 +17,7 @@ Sofware engineer | Technical writer | Mentor | Body Builder
 - REACT
 - Technical Writing
 - NODEJS
+- Nextjs
 
 ### Let's Connect
 [Twitter](https://twitter.com/eberetwit) | [Blog](freecodecamp.org/news/author/ebereplenty/) | [LinkedIn](https://www.linkedin.com/in/samson-ebere-njoku-profile/)
