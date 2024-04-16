@@ -1,23 +1,19 @@
 ## Hi there 👋 I am Njoku Samson Ebere
 
-Sofware engineer | Technical writer | Mentor | Body Builder
+Software engineer | Technical writer | Mentor | Body Builder
 
-<dl>
-  <dt>My Vision </dt>
-  <dd>Leaving everything digitalized</dd>
-
-  <dt>My Mission</dt>
-  <dd>Building solution to real life problems</dd>
-</dl>
+I intend to `leave everything digitalized` by `Building solutions to real-life problems`
 
 ## Skills
+- LLM
+- Artificial Intelligence (AI)
+- JavaScript
+- React
+- Nodejs
+- Nextjs
 - Mentoring
 - Speaking
-- JAVASCRIPT
-- REACT
 - Technical Writing
-- NODEJS
-- Nextjs
 
 ### Let's Connect
-[Twitter](https://twitter.com/eberetwit) | [Blog](freecodecamp.org/news/author/ebereplenty/) | [LinkedIn](https://www.linkedin.com/in/samson-ebere-njoku-profile/)
+[Here is everything you need to know about me](https://linktr.ee/ebereplenty)
